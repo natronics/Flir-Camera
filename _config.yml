@@ -1,0 +1,9 @@
+exclude:
+ - README.markdown
+ - Makefile
+ - LICENSE
+ - nb-markdown.tpl
+ - matplotlibrc 
+ - "*.ipynb"
+markdown: kramdown
+highlight: rouge
